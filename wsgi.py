@@ -90,8 +90,8 @@ class Hello(object):
      <html>
     <head>
     <h1>期末考練習1</h1>
-    <h2>40223248</h2>
-    <h2>賴仁華</h2>
+    <h2>40223212</h2>
+    <h2>何師誠</h2>
 
     <a href="drawspur">drawgear2</a>(繪出兩顆齒輪)<br />
 
